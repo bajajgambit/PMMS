@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c74219d2-e021-400f-bbbb-23c52d2a49e9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/build/app" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreui" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$attr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$bool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$dimen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$drawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$layout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$style.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R$styleable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/coreutils/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$attr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$bool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$dimen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$drawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$layout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$style.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R$styleable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/customtabs/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/fragment" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/classes/debug/android/support/frag
